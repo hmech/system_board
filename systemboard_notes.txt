@@ -1,0 +1,7 @@
+Problems to fix
+    - board object accepts indecies like y,x, not x,y 
+    - Need to create a dataset for different walls
+    - Need to create a proper weight function
+    - need to create a path class/function? 
+        - need to decide how I want to make this work
+    - Once the foundation is complete decide how you want to impliment the learning aspect of the program
